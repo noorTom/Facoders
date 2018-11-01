@@ -1,6 +1,7 @@
 print('Numbers from 1 to 10')
-num = int (input ('Guess the number: '))
-if num >10 or num <1 :
-    print('Guess the Number: ')
+input ('Guess the number: ')
+num =7
+if num ==7 :
+    print('Great ! You did it ')
 else:
-    print ('Great! You did it')
+    print ('Guess the Number: ')
