@@ -1,6 +1,9 @@
-print('Numbers from 1 to 10')
-x = 6
-input ('Guess the number: ')
-while int (input('Guess the number: ')) != x:
-    continue
-print ('Great ! You did it')
+print ('Numbers from 1 to 10')
+Lucky_number = 7
+while True:
+    res = int(input('guess the number'))
+    if res == Lucky_number:
+        print ('great you did it')
+        break
+    else:
+        continue  
