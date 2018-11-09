@@ -13,3 +13,6 @@
 
  * __Week-4__:    
 Introduction to Python : If statement , While loop
+
+* __Week-5__:    
+Lists and for loops
