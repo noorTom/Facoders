@@ -16,3 +16,6 @@ Introduction to Python : If statement , While loop
 
 * __Week-5__:    
 Lists and for loops
+
+* __Week-7__:    
+exr1
