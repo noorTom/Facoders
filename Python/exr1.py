@@ -12,3 +12,6 @@ print (my_function(b))
 
 c= ['salem','ali','sami','ahmad']
 print(my_function(c))
+
+d= [45,48,36,4,89,956,45]
+print(my_function(d))
