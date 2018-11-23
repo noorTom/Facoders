@@ -18,4 +18,5 @@ Introduction to Python : If statement , While loop
 Lists and for loops
 
 * __Week-7__:    
-exr1
+exr1   
+exr2
